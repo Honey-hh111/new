@@ -12,7 +12,7 @@ Solitaire::Solitaire(QWidget *parent)
 {
     setWindowFlags(Qt::Window);
     setWindowTitle("🃏 纸牌接龙");
-    setFixedSize(650, 670);
+    setFixedSize(650, 650);
 
     // 设置不透明背景
     setAttribute(Qt::WA_DeleteOnClose);
