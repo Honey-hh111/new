@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/sokoban.o
+debug/solitaire.o
+debug/sudoku.o
+debug/qrc_images.o
+debug/moc_mainwindow.o
+debug/moc_sokoban.o
+debug/moc_solitaire.o
+debug/moc_sudoku.o

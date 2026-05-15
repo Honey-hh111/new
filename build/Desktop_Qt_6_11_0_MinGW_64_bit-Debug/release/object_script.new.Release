@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/sokoban.o
+release/solitaire.o
+release/sudoku.o
+release/qrc_images.o
+release/moc_mainwindow.o
+release/moc_sokoban.o
+release/moc_solitaire.o
+release/moc_sudoku.o
